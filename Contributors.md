@@ -20,6 +20,7 @@
 - [Daniel Eggmeier](https://github.com/DanielEggm)
 - [Brendan Costello] (https://github.com/BrendanCostello)
 - [Tiantian Li](https://github.com/Arcohol)
+- [Sonam Nagekar](https://github.com/Sonam144)
 - [Acho1](https://github.com/achotal1)
 - [Thomas Carney](https://github.com/ThomasCarney315)
 - [wai](https://github.com/WaiYanMinThaton)
